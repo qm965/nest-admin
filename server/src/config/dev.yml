@@ -30,8 +30,8 @@ db:
   mysql:
     host: 'localhost'
     username: 'root'
-    password: ''
-    database: ''
+    password: '123456'
+    database: 'nestAdmin'
     port: 3306
     charset: 'utf8mb4'
     logger: 'file'
